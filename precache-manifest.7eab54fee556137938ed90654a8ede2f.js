@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eadce2c0b5bb4c754ff0c56cd99e1a6c",
+    "revision": "0dd13006a44f6584d04f59a2dfea0123",
     "url": "/nutritionalfacts/index.html"
   },
   {
-    "revision": "2314ae36bd4d2814cb1c",
+    "revision": "ff9ca42816f40bc107bb",
     "url": "/nutritionalfacts/static/css/main.b371d1f4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nutritionalfacts/static/js/2.82fe28cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2314ae36bd4d2814cb1c",
-    "url": "/nutritionalfacts/static/js/main.e450448b.chunk.js"
+    "revision": "ff9ca42816f40bc107bb",
+    "url": "/nutritionalfacts/static/js/main.b01d190d.chunk.js"
   },
   {
     "revision": "86f52beeef204ba773ba",
