@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/nutritionalfacts/static/css/main.b371d1f4.chunk.css",
-    "main.js": "/nutritionalfacts/static/js/main.b01d190d.chunk.js",
-    "main.js.map": "/nutritionalfacts/static/js/main.b01d190d.chunk.js.map",
-    "runtime-main.js": "/nutritionalfacts/static/js/runtime-main.1f2eeb7c.js",
-    "runtime-main.js.map": "/nutritionalfacts/static/js/runtime-main.1f2eeb7c.js.map",
-    "static/js/2.82fe28cc.chunk.js": "/nutritionalfacts/static/js/2.82fe28cc.chunk.js",
-    "static/js/2.82fe28cc.chunk.js.map": "/nutritionalfacts/static/js/2.82fe28cc.chunk.js.map",
+    "main.css": "/nutritionalfacts/static/css/main.e2a569f4.chunk.css",
+    "main.js": "/nutritionalfacts/static/js/main.c3854aef.chunk.js",
+    "main.js.map": "/nutritionalfacts/static/js/main.c3854aef.chunk.js.map",
+    "runtime-main.js": "/nutritionalfacts/static/js/runtime-main.2ee1f80b.js",
+    "runtime-main.js.map": "/nutritionalfacts/static/js/runtime-main.2ee1f80b.js.map",
+    "static/js/2.050a5d30.chunk.js": "/nutritionalfacts/static/js/2.050a5d30.chunk.js",
+    "static/js/2.050a5d30.chunk.js.map": "/nutritionalfacts/static/js/2.050a5d30.chunk.js.map",
     "index.html": "/nutritionalfacts/index.html",
-    "precache-manifest.7eab54fee556137938ed90654a8ede2f.js": "/nutritionalfacts/precache-manifest.7eab54fee556137938ed90654a8ede2f.js",
-    "service-worker.js": "/nutritionalfacts/service-worker.js",
-    "static/css/main.b371d1f4.chunk.css.map": "/nutritionalfacts/static/css/main.b371d1f4.chunk.css.map",
-    "static/js/2.82fe28cc.chunk.js.LICENSE.txt": "/nutritionalfacts/static/js/2.82fe28cc.chunk.js.LICENSE.txt"
+    "static/css/main.e2a569f4.chunk.css.map": "/nutritionalfacts/static/css/main.e2a569f4.chunk.css.map",
+    "static/js/2.050a5d30.chunk.js.LICENSE.txt": "/nutritionalfacts/static/js/2.050a5d30.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f2eeb7c.js",
-    "static/js/2.82fe28cc.chunk.js",
-    "static/css/main.b371d1f4.chunk.css",
-    "static/js/main.b01d190d.chunk.js"
+    "static/js/runtime-main.2ee1f80b.js",
+    "static/js/2.050a5d30.chunk.js",
+    "static/css/main.e2a569f4.chunk.css",
+    "static/js/main.c3854aef.chunk.js"
   ]
 }
